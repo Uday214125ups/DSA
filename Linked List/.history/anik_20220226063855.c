@@ -47,7 +47,7 @@ void createList(int n)
 	{
 	  printf ("unable to give memory");
 	  break;
-	}dsf
+	}
 
       printf ("enter data in nodes");
       scanf ("%d", &data);
