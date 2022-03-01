@@ -12,7 +12,7 @@ struct node{
 
 int main(){
 
-    printf("enter number of details");
+    printf("enter number of details")
     int n;
 
     scanf("%d",&n);

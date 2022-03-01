@@ -3,7 +3,7 @@
 
 
 struct node{
-    int data;
+    int data
 
     struct node *link;
 }*start;
@@ -12,7 +12,7 @@ struct node{
 
 int main(){
 
-    printf("enter number of details");
+    printf("enter number of details")
     int n;
 
     scanf("%d",&n);
